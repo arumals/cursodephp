@@ -7,6 +7,6 @@
     <title>Ejemplo</title>
   </head>
   <body>
-    La hora es <?= $hora ?>
+    La misma hora es <?= $hora ?>
   </body>
 </html>

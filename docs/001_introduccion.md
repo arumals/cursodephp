@@ -1,8 +1,13 @@
 ---
 marp: true
 ---
+<!-- $theme: gaia -->
 
-# <center>Curso de PHP</center>
+<br /><br />
+<center>
+  <img src="assets/logo.png" />
+  <h1>Curso de PHP</h1>
+</center>
 
 ---
 
