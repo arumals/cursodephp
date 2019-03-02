@@ -2,17 +2,21 @@
 marp: true
 ---
 
-# Curso de PHP
-- Arturo Maltos
-- Github: arumals
-- Twitter: arturomaltos
+# <center>Curso de PHP</center>
+
+---
+
+# Arturo Maltos
+- @arturomaltos
+- Desarrollador Web desde 1998.
+- Flash, PHP, Node, Go.
 
 ---
 <!-- page_number: true -->
 
 # Requisitos
-- Conocimientos **basicos** de HTML.
-- Conocimientos **basicos** de computación.
+- Conocimientos **básicos** de HTML.
+- Conocimientos **básicos** de computación.
 - Ganas de investigar y aprender por ti mismo.
 
 ---
