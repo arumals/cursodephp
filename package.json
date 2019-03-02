@@ -1,0 +1,12 @@
+{
+  "name": "php",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx @marp-team/marp-cli -s docs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
